@@ -15,8 +15,8 @@ optionally run `pdoc src -n` to disable automatic opening of browser
 
 ## TODO
 + [x] creating the blockchain required using the architecture provided in the diagrams file
-+ [ ] implementing a fingerprint recognition system
-+ [ ] implementing a face recognition system
-+ [ ] handle database for storing biometric data
-+ [ ] implementing an user interface for the given system 
++ [x] implementing a fingerprint recognition system
++ [x] implementing a face recognition system
++ [x] handle database for storing biometric data
++ [x] implementing an user interface for the given system 
 
