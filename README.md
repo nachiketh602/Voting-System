@@ -20,3 +20,8 @@ optionally run `pdoc src -n` to disable automatic opening of browser
 + [x] handle database for storing biometric data
 + [x] implementing an user interface for the given system 
 
+## The flow of application goes as follows
+
+![Screenshot 2024-02-29 212420](https://github.com/nachiketh602/Voting-System-using-blockchain/assets/70696667/e36de8bc-9d3c-4343-b164-83a9487f2cf8)
+
+
